@@ -8,15 +8,15 @@
 
 - 🚀 I’m on a journey to become a developer and cyber security analyst.
 - 🧠 Fascinated by psychology — always exploring how minds and machines work!
-- 💻 Currently sharpening my skills in C++, Java, Node.js, and MongoDB.
+- 💻 Currently sharpening my skills in C++, Java, Node.js,MongoDB , python and machine learning.
 
 ---
 
 ## 🛠️ Skills & Tools
 
-- **Languages:** C++, Java, JavaScript (Node.js)
+- **Languages:** C++, Java,python 
 - **Database:** MongoDB
-- **Cyber Security:** Eager learner in ethical hacking, digital forensics, and system security
+- **Machine Learning:** Eager learner in automation , agentic AIs and how algo prediction works .
 
 ---
 
