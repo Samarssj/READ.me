@@ -1,6 +1,6 @@
 # Hi 👋, I’m Samar Singh (`Samarssj`)
 
-**Aspiring Developer & Cyber Security Analyst | Exploring Minds & Machines**
+**Aspiring Developer & machine learning | Exploring Minds & Machines**
 
 ---
 
